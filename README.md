@@ -1,1 +1,6 @@
-# shopify-two-sync
+# **Shopify-Two-Sync-WOA**
+## **Innovators/Developers​**
+- Khush Gupta
+
+## **Mentor**
+- Ayush Ghai 
